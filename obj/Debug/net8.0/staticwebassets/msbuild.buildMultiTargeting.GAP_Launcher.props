@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\GAP_Launcher.props" />
-</Project>
